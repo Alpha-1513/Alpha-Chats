@@ -5,8 +5,7 @@
 </p>
 
   <p align="center">
-  A real-time chat app that allows you to listen to music synchronously with your friends.
-    And also you can chat with them at the same time!
+  A real-time chat app that allows you to listen to music synchronously with your friends and also you can chat with them at the same time!
   <br>
     <a href="https://listen-together.app"><strong>Demo</strong></a>
   </p>
