@@ -18,24 +18,9 @@
 - [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Social Links](https://linktr.ee/mohd_altamish)
 
-## 💾 Database Schema
+# ⚙️ Getting Started 
 
-### Database schema: [here](./schema.sql)
-
-<img width="992" alt="Screenshot of database schema" src="./public/database-schema.png">
-
-## 📚 Tech Stacks
-
-- [React.js](react.dev)
-- PostgeSQL managed by [Supabase](https://supabase.io/)
-- Styled using [Tailwind CSS](https://tailwindcss.com/)
-- Data Fetching, Infinite Scroll [React Query](https://tanstack.com/query/v3/)
-- Context API + Reducer hook
-- Bundle analyzer using [webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
-
-# ⚙️ Getting Started
-
-## Requirements
+## System Requirements
 
 To run this app locally you need
 
