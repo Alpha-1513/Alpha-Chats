@@ -43,7 +43,7 @@ Want to get up and running quickly? Follow these steps:
 - [Clone the repository](https://help.github.com/articles/cloning-a-repository/) to your local device.
 
   ```sh
-  git clone https://github.com/aryan-mehrabi/listen-together
+  git clone https://github.com/Alpha-1513/Alpha-Chats.git
   ```
 
 - Run `npm install` in the root directory
