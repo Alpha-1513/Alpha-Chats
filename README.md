@@ -10,9 +10,6 @@
     <a href="https://listen-together.app"><strong>Demo</strong></a>
   </p>
 
-<img width="1040" alt="Cover" src="./public/listen-together-cover.png">
-
-
 ## 🙇 Author
 
 - [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
