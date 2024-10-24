@@ -16,7 +16,7 @@
 ## 🙇 Author
 
 - [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Social Links] (https://linktr.ee/mohd_altamish)
+- [Social Links](https://linktr.ee/mohd_altamish)
 
 ## 💾 Database Schema
 
