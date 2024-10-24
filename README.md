@@ -12,6 +12,12 @@
 
 <img width="1040" alt="Cover" src="./public/listen-together-cover.png">
 
+
+## 🙇 Author
+
+- [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Social Links] (https://linktr.ee/mohd_altamish)
+
 ## 💾 Database Schema
 
 ### Database schema: [here](./schema.sql)
@@ -60,10 +66,6 @@ Want to get up and running quickly? Follow these steps:
 That's it! You should now be able to access the app at http://localhost:3000.
 
 Also You can visit Supabase Dashboard at http://localhost:54323/
-
-## 🙇 Author
-
-- [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## License
 
