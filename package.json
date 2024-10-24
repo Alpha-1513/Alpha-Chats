@@ -1,4 +1,5 @@
 {
+  "homepage": "https://alpha-1513.github.io/alpha-chats",
   "name": "listen-together",
   "version": "0.1.0",
   "private": true,
@@ -26,6 +27,8 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
+    "predeploy": "npm rum build",
+    "deploy": "gh -pages -d build",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "analyze": "npm run build -- --stats && yarn webpack-bundle-analyzer ./build/bundle-stats.json",
