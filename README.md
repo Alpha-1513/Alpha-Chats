@@ -63,7 +63,7 @@ Also You can visit Supabase Dashboard at http://localhost:54323/
 
 ## 🙇 Author
 
-- [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish/)
+- [Mohd Altamish](https://www.linkedin.com/in/mohd-altamish-506404330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## License
 
