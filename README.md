@@ -1,6 +1,6 @@
 <p align="center" style="margin-top: 120px">
   <a href="https://listen-together.app">
-   <img src="./public/Alpha Chats_20250130_200548_0000.png" width="100px" alt="Listen Together Logo">
+   <img src="./Alpha Chats_20250130_200548_0000.png" width="100px" alt="Listen Together Logo">
   </a>
 </p>
 
